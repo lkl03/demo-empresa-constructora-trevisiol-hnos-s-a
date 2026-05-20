@@ -1,2 +1,7 @@
-# demo-empresa-constructora-trevisiol-hnos-s-a
-Demo web para Empresa Constructora Trevisiol Hnos. S.A. — diseñada por eterlab.
+# Empresa Constructora Trevisiol Hnos. S.A.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
